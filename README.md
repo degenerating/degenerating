@@ -15,10 +15,10 @@
    <td>
        <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/NASAapi.gif" width="350" /><br>
        <a href="https://github.com/degenerating/nasa-api"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
-       <a href="#"><img align="center"src="nasa-api-project1.netlify.app">
+       <a href="nasa-api-project1.netlify.app"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
     <td>
-        <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/hair salon webm.webm" width = "350"/><br>
+        <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/hair_salon_webm.webm" width = "350"/><br>
         <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
         <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
      </td>
