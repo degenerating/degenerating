@@ -26,13 +26,13 @@
    </tr>
      <tr>
     <td>
-        <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/levelground.gif" width = "350"/><br>
-        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+        <a href="https://github.com/degenerating/level-ground-wireframe"><img src="https://github.com/degenerating/degenerating/blob/master/levelground.gif" width = "350"/><br>
+        <a href="https://github.com/degenerating/level-ground-wireframe"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
         <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
       <td>
-        <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/comingsoon.PNG" width = "350"/><br>
-        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+        <a href="https://github.com/degenerating/source"><img src="https://github.com/degenerating/degenerating/blob/master/source.PNG" width = "350"/><br>
+        <a href="https://github.com/degenerating/source"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
         <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
       </td>
    </tr>
