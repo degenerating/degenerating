@@ -19,14 +19,14 @@
     </td>
     <td>
         <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/hair_salon.gif" width = "350"/><br>
-        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+        <a href="https://github.com/degenerating/hair-salon"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
         <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
      </td>
   
    </tr>
      <tr>
     <td>
-        <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/comingsoon.PNG" width = "350"/><br>
+        <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/levelground.gif" width = "350"/><br>
         <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
         <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
