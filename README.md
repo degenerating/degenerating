@@ -28,7 +28,7 @@
    </tr>
      <tr>
     <td>
-        <a href="https://github.com/degenerating/level-ground-wireframe"><img src="https://github.com/degenerating/degenerating/blob/master/levelground.gif" width = "350"/><br></a>
+        <a href="https://github.com/degenerating/level-ground-wireframe"><img src="https://github.com/degenerating/degenerating/blob/master/levelground.gif" width = "350"/></a><br>
         <a href="https://github.com/degenerating/level-ground-wireframe"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red"></a>
         <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red"></a>
     </td>
