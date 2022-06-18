@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Christian 👋</h1>
 <h3 align="center">A frontend developer from Arizona</h3>
 
+
+
+<h3 align="left"><a href = 'https://degenerating.netlify.app/'>Portfolio</a></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/true_degen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="true_degen" height="30" width="40" /></a>
