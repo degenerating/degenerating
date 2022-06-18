@@ -17,7 +17,7 @@
    <td>
        <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/NASAapi.gif" width="350" /></a><br>
        <a href="https://github.com/degenerating/nasa-api"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red"></a>
-       <a href="nasa-api-project1.netlify.app"><img align="center"src="https://img.shields.io/badge/%20W-Website-red"></a>
+       <a href="https://nasa-api-project1.netlify.app"><img align="center"src="https://img.shields.io/badge/%20W-Website-red"></a>
     </td>
     <td>
         <a href="#"><img src="https://github.com/degenerating/degenerating/blob/master/hair_salon.gif" width = "350"/></a><br>
